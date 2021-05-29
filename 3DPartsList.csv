@@ -1,0 +1,31 @@
+ITEM,PART,THINGIVERSE NAME,QTY,MATERIAL,NOTE
+1,4957RetainerAdapter,4957RetainerAdapter.stl,8,PETG,if using 4957R springs
+2,BellCrankLeft,BellCrankLeft.stl,1,PA12+GF,
+3,BellCrankLink,BellCrankLink.stl,1,PA12,
+4,BellCrankRight,BellCrankRight.stl,1,PA12+GF,
+5,BellCrankStem,BellCrankStem.stl,2,PA12,
+6,Body,Body_v1.1.stl,1,PETG,car shaped
+7,BraceBigPart,BraceBigPart.stl,2,PA12+GF,
+8,BraceSmallPart,BraceSmallPart.stl,2,PA12+GF,
+9,CentralSupport,CentralSupport.stl,1,PETG,
+10,ChassisFront,ChassisFront_v1.1.stl,1,PA12+GF,
+11,ChassisRear,ChassisRear_v1.1.stl,1,PA12+GF,
+12,CHubFrontLeft,CHubFrontLeft_v1.1.stl,1,PA12+GF,
+13,CHubFrontRight,CHubFrontRight_v1.1.stl,1,PA12+GF,
+14,CHubRearLeft,CHubRearLeft_v1.1.stl,1,PA12+GF,
+15,CHubRearRight,CHubRearRight_v1.1.stl,1,PA12+GF,
+16,DiffCaseLower,DiffCaseLower_v1.1.stl,2,PETG,
+17,DiffCaseUpper,DiffCaseUpper.stl,2,PETG,
+18,LEDMount,LEDMount.stl,2,PETG,for Knog plus LEDs
+19,MotorPlate,MotorPlate.stl,1,PA12+GF,
+20,MotorSupport,MotorSupport.stl,1,PA12,
+21,ServoClamp,ServoClamp.stl,1,PETG,
+22,SteeringBlock,SteeringBlock_v1.1.stl,2,PA12,
+23,TopDeck,TopDeck.stl,1,PETG,
+24,Tower,Tower.stl,2,PA12+GF,
+25,WishboneFrontLeft,WishboneFrontLeft.stl,1,PA12,
+26,WishboneFrontRight,WishboneFrontRight.stl,1,PA12,
+27,WishboneRearLeft,WishboneRearLeft.stl,1,PA12,
+28,WishboneRearRight,WishboneRearRight.stl,1,PA12,
+29,BodySimple,Body.stl,1,PETG,alternative to Body
+
