@@ -12,15 +12,15 @@ ITEM,PART,THINGIVERSE NAME,QTY,MATERIAL,NOTE
 11,ChassisRear,ChassisRear_v1.1.stl,1,PA12+GF,
 12,CHubFrontLeft,CHubFrontLeft_v1.1.stl,1,PA12+GF,
 13,CHubFrontRight,CHubFrontRight_v1.1.stl,1,PA12+GF,
-14,CHubRearLeft,CHubRearLeft_v1.1.stl,1,PA12+GF,
-15,CHubRearRight,CHubRearRight_v1.1.stl,1,PA12+GF,
+14,CHubRearLeft,CHubRearLeft_v1.1.1.stl,1,PA12+GF,
+15,CHubRearRight,CHubRearRight_v1.1.1.stl,1,PA12+GF,
 16,DiffCaseLower,DiffCaseLower_v1.1.stl,2,PETG,
 17,DiffCaseUpper,DiffCaseUpper.stl,2,PETG,
 18,LEDMount,LEDMount.stl,2,PETG,for Knog plus LEDs
 19,MotorPlate,MotorPlate.stl,1,PA12+GF,
 20,MotorSupport,MotorSupport.stl,1,PA12,
 21,ServoClamp,ServoClamp.stl,1,PETG,
-22,SteeringBlock,SteeringBlock_v1.1.stl,2,PA12,
+22,SteeringBlock,SteeringBlock_v1.1.1.stl,2,PA12,
 23,TopDeck,TopDeck.stl,1,PETG,
 24,Tower,Tower.stl,2,PA12+GF,
 25,WishboneFrontLeft,WishboneFrontLeft.stl,1,PA12,
@@ -28,4 +28,3 @@ ITEM,PART,THINGIVERSE NAME,QTY,MATERIAL,NOTE
 27,WishboneRearLeft,WishboneRearLeft.stl,1,PA12,
 28,WishboneRearRight,WishboneRearRight.stl,1,PA12,
 29,BodySimple,Body.stl,1,PETG,alternative to Body
-
