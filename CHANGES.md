@@ -1,5 +1,16 @@
 # Release notes
 
+## 1.1.1
+Hotfix release:
+- Not enough room for HSP 108015 #1
+
+For HSP 188015 you will need 4x M5 DIN 125 washers
+
+###### To upgrade from v1.1.0 print following parts:
+- SteeringHub
+- CHubRearLeft
+- CHubRearRight
+
 ## 1.1.0
 
 - HSP 108015 is the new CVD recommendation (HSP 188015 is deprecated but still compatible with the v1.1.0 parts)
