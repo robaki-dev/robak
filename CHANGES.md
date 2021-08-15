@@ -1,5 +1,29 @@
 # Release notes
 
+## 1.2.0
+Fixes:
+- Weak connection between Chassis and BraceBigPart #2
+- Body does not sit tight #3
+- LowerDiffCase horizontal holes diameter is too big #7
+- Gap between arms and carrier hubs #12
+- Shock cap rubs against Tower #13
+- Thicker Top Deck #15
+
+Enchancements:
+- Thicker Top Deck #15
+
+###### To upgrade from v1.1.1 print following parts:
+- Body
+- BraceBigPart
+- DiffCaseLower
+- TopDeckFront
+- TopDeckRear
+- Tower
+- WishboneFrontRight
+- WishboneFrontLeft
+- WishboneRearRight
+- WishboneRearLeft
+
 ## 1.1.1
 Hotfix release:
 - Not enough room for HSP 108015 #1
