@@ -1,41 +1,43 @@
 ITEM,PART,NAME,QTY,NOTES
-1,motor,hobby queen 3650-3900KV,1,
-2,esc,no name 80A,1,
-3,receiver,FS-GR3E,1,
-4,transmiter,FS-GT3B,1,
-5,servo,MG 995,1,
-6,battery,2S 5000mAh,1,
-7,wheels,HSP 88005 128x65mm ,4,
-8,shocks,HSP 108004,4,
-9,springs (recommended),TRX 5859 2PCS set,2,
-10,springs (alternative),TRX 4957R 4PCS set,1,
-11,diffs,HSP 02024,2,
-12,front gear,HSP 02030,1,
-13,rear gear,HSP 03015,1,
-14,cvd,HSP 108015,4,
-15,wheel hex,HSP 122042,4,
-16,cups,HSP 02016,2,
-17,turnbuckle (steering),HSP 06016,2,
-18,turnbuckle (servo),HSP 08042,1,
-19,drive shaft,HSP 04003,1,
-20,main gear,HSP 11184,1,
-21,motor gear,HSP 11181,1,
-22,small bearings,5x10x4mm,9,
-23,big bearings,10x15x4mm,8,
-24,ball joint rod ends,,10,for suspension links
-25,main gear pin,10x2mm,1,like HSP 122042 (DIY optionally)
-26,DIY main gear pin,⌀2mm rod,1,see rods.pdf 
-27,DIY hinge pins,⌀3mm rod,1,see rods.pdf
-28,DIY suspension links,M3 threaded rod,1,see rods.pdf
-29,ball head screw,HSP 02038,4,
-30,sillicone oil (front shocks),cSt500,1,50ml
-31,sillicone oil (rear shocks),cSt700,1,50ml
-32,M3 flat head screw,25mm,10,
-33,M3 flat head screw,"16, 12, 8mm",50,for each length
-34,M3 socket head screw,"25, 20, 16, 12, 8mm",50,for each length
-35,M3 hex nut,,50,
-36,M3 nylon lock nut,,50,
-37,M4 nylon lock nut,,20,
-38,M3 washer,,10,
-39,M4 washer,,20,
-40,M5 washer,,20,
+1,ESC + motor,Racerstar 3650 3900KV + 60A ESC,1,more info on robaki.dev
+2,RX + TX,Dumbo RC X6,1,more info on robaki.dev
+3,servo,MG 995,1,more info on robaki.dev
+4,battery,2S 5000mAh,1,more info on robaki.dev
+5,wheels,HSP 88005,4,128x65mm
+6,shocks,HSP 108004,4,108mm
+7,differential,HSP 02024,2,
+8,front gear,HSP 02030,1,
+9,rear gear,HSP 03015,1,
+10,cvd,HSP 108015,4,"2 types available, more info on robaki.dev"
+11,wheel hex,HSP 122042,4,
+12,cups,HSP 02016,2,
+13,servo link,HSP 02012,1,
+14,steering links,HSP 06016,1,one pair
+15,drive shaft,HSP 04003,1,
+16,spur gear,HSP 11184,1,
+17,pinion gear,HSP 11181,1,21T
+18,ball head,HSP 06007,8,for shocks
+19,grub screws,HSP 02099,20,recommended
+20,ball head screw,HSP 02038,4,for steering
+21,main gear pin,HSP 08027,1,
+22,small bearings,5x10x4mm,9,order a few more if you can
+23,big bearings,10x15x4mm,12,order a few more if you can
+24,battery straps,"20mm width, 200mm long",2,max width 25mm
+25,DIY hinge pins,⌀3mm steel rod,1m,see HingePins.pdf
+26,sillicone oil (front shocks),500 cSt,50ml,
+27,sillicone oil (rear shocks),700 cSt,50ml,
+28,sillicone oil (diffs),80.000 cSt ,50ml,
+29,thread-locking fluid,,50ml,Medium strength (blue)
+30,lithium grease,,100ml,for diffs
+31,M2 socket head bolt,6mm,10,bolt 2 body parts together
+32,M3 socket head bolt,25mm,20,
+33,M3 socket head bolt,"20, 16, 12, 8mm",50,for each length
+34,M3 flat head bolt,"20, 16, 12, 8mm",50,for each length
+35,M3 square nut,,50,order more if you can
+36,M4 nylon lock nut,,20,for wheels
+37,M4 washer,,20,for wheels
+38,M6 flange bolt,12mm,1,(optional) alternative body mount
+39,M6 flange bolt,35mm,1,(optional) alternative body mount
+40,M6 flange nut,,1,(optional) alternative body mount
+41,M6 wing nut,,2,(optional) alternative body mount
+42,CA glue,superglue,30ml,tire glue
