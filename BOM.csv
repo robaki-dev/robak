@@ -1,13 +1,14 @@
 PART,NAME,QTY,NOTES
-ESC + motor,Racerstar 3650 3900KV + 60A ESC,1,more info on robaki.dev
-RX + TX,Dumbo RC X6,1,more info on robaki.dev
-servo,MG 995,1,more info on robaki.dev
-battery,2S 5000mAh,1,more info on robaki.dev
+ESC + motor,Racerstar 3650 3900KV + 60A ESC,1,"avoid cheap blue ESC, alternative setups info on robaki.dev"
+RX + TX,Dumbo RC X6,1,"long range, easy to setup"
+servo,MG 995,1,"budget one, consider upgrading to a one of the JX servos from Banggood"
+servo horn,25T,1,20 and 25mm ctc distance
+battery,2S 5000mAh,1,"preferably l=138mm, w=48mm +/- 2mm"
 wheels,HSP 88005,4,128x65mm
-shocks,HSP 108004,4,108mm
+shocks,HSP 108004,4,"108mm, sometimes leak, looking for an alternative"
 differential,HSP 02024,2,
 front gear,HSP 02030,1,
-rear gear,HSP 03015,1,
+rear gear,HSP 03015,1,e-clip shoud be included
 cvd,HSP 108015,4,"2 types available, more info on robaki.dev"
 wheel hex,HSP 122042,4,
 cups,HSP 02016,2,
@@ -24,16 +25,19 @@ small bearings,5x10x4mm,9,order a few more if you can
 big bearings,10x15x4mm,12,order a few more if you can
 battery straps,"20mm width, 200mm long",2,max width 25mm
 DIY hinge pins,⌀3mm steel rod,1m,see HingePins.pdf
-sillicone oil (front shocks),500 cSt,50ml,
-sillicone oil (rear shocks),700 cSt,50ml,
-sillicone oil (diffs),80.000 cSt ,50ml,
+sillicone oil (front shocks),500 cSt,50ml,around 3ml per one shock needed
+sillicone oil (rear shocks),700 cSt,50ml,around 3ml per one shock needed
+sillicone oil (diffs),80.000 cSt ,50ml,60.000 cSt will work too
 thread-locking fluid,,50ml,Medium strength (blue)
-lithium grease,,100ml,for diffs
-M2 socket head bolt,6mm,10,bolt 2 body parts together
+lithium grease,,50ml,or any other grease for gears
+M2 socket head bolt,10mm,10,bolt 2 body parts together
+M2 nylon lock nut,,10,bolt 2 body parts together
 M3 socket head bolt,25mm,20,
 M3 socket head bolt,"20, 16, 12, 8mm",50,for each length
 M3 flat head bolt,"20, 16, 12, 8mm",50,for each length
 M3 square nut,,50,order more if you can
+M3 nylon lock nut,,4,for upper arm hinge
+M3 washer,,2,motor mount to the plate
 M4 nylon lock nut,,20,for wheels
 M4 washer,,20,for wheels
 M6 flange bolt,12mm,1,(optional) alternative body mount
