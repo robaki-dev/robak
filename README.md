@@ -1,18 +1,26 @@
-# Robak RC DIY car
+# Robak :bug:
+Robak is a DIY 4x4 all-terrain radio controlled vehicle. Designed from scratch with makers in mind - you can build one yourself.
 
-## Download
-Download `ROBAKvX.X.X.zip` from [releases](https://github.com/robaki-dev/robak/releases)
+![robak](https://i.imgur.com/45bZHAY.png)
 
-## What to print
-Check the `3DPartsList.csv`
+### Printed parts :car:
+- Download 3D models `.zip` package from [releases](https://github.com/robaki-dev/robak/releases)
 
-## Hinge pins and links
-Cut steel rods to lenght using `rods.pdf` (included in the zip package)
+### What to print :heavy_check_mark:
+- Check the [3DPartsList](3DPartsList.csv)
 
-## Video guide
-[YouTube playlist](https://www.youtube.com/watch?v=XfGrhaVazn8&list=PLdykdiQmspK18FzZvXmhHIBxO5Rm41mUB&index=1)
+### Non printed parts :rocket:
+- Check the [BOM](BOM.csv)
+- Links available on [Discord](https://discord.gg/4mxkpQYTXy)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=C4PIL4eQ27o
-" target="_blank"><img src="http://img.youtube.com/vi/C4PIL4eQ27o/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+### Hinge pins :scissors:
+- Cut steel rods to lenght: [drawing](DRAWINGS/HingePins.pdf)
 
+### Documentation :green_book:
+- [Docs](https://robaki.dev/docs) on https://robaki.dev
+
+### Support :wave:
+- Join our [Discord](https://discord.gg/4mxkpQYTXy) channel
+
+### Video guide :video_camera:
+[![Video Guide](https://img.youtube.com/vi/374VbFoaV5E/0.jpg)](https://www.youtube.com/watch?v=374VbFoaV5E)
