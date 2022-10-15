@@ -1,47 +1,60 @@
 PART,NAME,QTY,NOTES
-ESC + motor,Racerstar 3650 3900KV + 60A ESC,1,"avoid cheap blue ESC, alternative setups info on robaki.dev"
-RX + TX,Dumbo RC X6,1,"long range, easy to setup"
-servo,MG 995,1,"budget one, consider upgrading to a one of the JX servos from Banggood"
+ESC + motor option 1.,Racerstar 3650 3900KV + 60A ESC,1,cheapest worth having combo
+ESC + motor option 2.,Hobbywing EZRUN MAX10 + 3652SL-3300KV,1,best for most people
+ESC + motor option 3.,Hobbywing 10BL120 SD + QUICRUN 3650 Sensored brushless motor G2 10.5T (3600KV),1,sensored combo
+RX + TX,Dumbo RC X6,1,long range; easy to setup
+servo option 1.,MG 995,1,cheapest worth having servo
+servo option 2.,JX Ecoboost CLS6322HV 21KG,1,more expensive servo
 servo horn,25T,1,20 and 25mm ctc distance
-battery,2S 5000mAh,1,"preferably l=138mm, w=48mm +/- 2mm"
+battery,2S 5000mAh,1,hard case: l=138mm; w=48mm +/- 2mm
 wheels,HSP 88005,4,128x65mm
-shocks,HSP 108004,4,"108mm, sometimes leak, looking for an alternative"
+shocks option 1.,HSP 108004,4,100mm; sometimes leak; look for improved version
+shocks option 2.,INJORA Aluminum Shock Absorber 100mm,4,recommended
+springs,5858 Traxxas,4,recommended as the stock springs are too soft
 differential,HSP 02024,2,
+differential main gear,HSP 02029,2,optional; in case you damage one
 front gear,HSP 02030,1,
 rear gear,HSP 03015,1,e-clip shoud be included
-cvd,HSP 108015,4,"2 types available, more info on robaki.dev"
+cvd,HSP 108015,4,2 types available; more info on robaki.dev
 wheel hex,HSP 122042,4,
 cups,HSP 02016,2,
 servo link,HSP 02012,1,
 steering links,HSP 06016,1,one pair
 drive shaft,HSP 04003,1,
 spur gear,HSP 11184,1,
-pinion gear,HSP 11181,1,21T
+pinion gear,HSP 11181,1,21T + 17T optional
 ball head,HSP 06007,8,for shocks
 grub screws,HSP 02099,20,recommended
 ball head screw,HSP 02038,4,for steering
 main gear pin,HSP 08027,1,
 small bearings,5x10x4mm,9,order a few more if you can
 big bearings,10x15x4mm,12,order a few more if you can
-battery straps,"20mm width, 200mm long",2,max width 25mm
+battery straps,20mm width; 200mm long,2,max width 25mm
 DIY hinge pins,⌀3mm steel rod,1m,see HingePins.pdf
 sillicone oil (front shocks),500 cSt,50ml,around 3ml per one shock needed
 sillicone oil (rear shocks),700 cSt,50ml,around 3ml per one shock needed
-sillicone oil (diffs),80.000 cSt ,50ml,60.000 cSt will work too
+sillicone oil (diffs),80.000 cSt,50ml,60.000 cSt will work too
 thread-locking fluid,,50ml,Medium strength (blue)
 lithium grease,,50ml,or any other grease for gears
-M2 socket head bolt,10mm,10,bolt 2 body parts together
-M2 nylon lock nut,,10,bolt 2 body parts together
-M3 socket head bolt,25mm,20,
-M3 socket head bolt,"20, 16, 12, 8mm",50,for each length
-M3 flat head bolt,"20, 16, 12, 8mm",50,for each length
-M3 square nut,,50,order more if you can
-M3 nylon lock nut,,4,for upper arm hinge
-M3 washer,,2,motor mount to the plate
-M4 nylon lock nut,,20,for wheels
-M4 washer,,20,for wheels
-M6 flange bolt,12mm,1,(optional) alternative body mount
-M6 flange bolt,35mm,1,(optional) alternative body mount
-M6 flange nut,,1,(optional) alternative body mount
-M6 wing nut,,2,(optional) alternative body mount
 CA glue,superglue,30ml,tire glue
+M2x10mm Socket Head Screws,DIN 912; ISO 4762,10,bolt 2 body parts together
+M2 Nylon-Insert Locknuts,DIN 985; ISO 10511,10,bolt 2 body parts together
+M3x25mm Socket Head Screws,DIN 912; ISO 4762,20,
+M3x20mm Socket Head Screws,DIN 912; ISO 4762,50,
+M3x16mm Socket Head Screws,DIN 912; ISO 4762,20,
+M3x12mm Socket Head Screws,DIN 912; ISO 4762,20,
+M3x8mm Socket Head Screws,DIN 912; ISO 4762,20,
+M3x25mm Flat Head Screws,DIN 7991; ISO 10642,20,three-piece diff case
+M3x20mm Flat Head Screws,DIN 7991; ISO 10642,50,diff case to chassis
+M3x16mm Flat Head Screws,DIN 7991; ISO 10642,20,
+M3x12mm Flat Head Screws,DIN 7991; ISO 10642,50,
+M3x8mm Flat Head Screws,DIN 7991; ISO 10642,20,
+M3 Thin Square Nuts ,DIN 562,50,ht. 1.8mm
+M3 Nylon-Insert Locknuts,DIN 985; ISO 10511,20,for upper arm hinge
+M3 General Purpose Washers,DIN 125; ISO 7089,10,motor mount to the plate
+M4 Nylon-Insert Locknuts,DIN 985; ISO 10511,20,for wheels
+M4 General Purpose Washers,DIN 125; ISO 7089,20,for wheels
+M6x12mm Flanged Hex Head Screws ,DIN 6921,1,(optional) alternative body mount
+M6x35mm Flanged Hex Head Screws ,DIN 6921,1,(optional) alternative body mount
+M6 Steel Serrated Flange Locknuts ,DIN 6923,2,(optional) alternative body mount
+M6 Steel Wing Nuts ,DIN 315,2,(optional) alternative body mount
