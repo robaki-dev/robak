@@ -8,7 +8,7 @@
 - reinforced steering blocks
 - servo mount with a cutout for a receiver
 - slimmed hinge pin brace
-- motror plate with a cutout (easier motor swap)
+- motor plate with a cutout (easier motor swap)
 - thicker low poly body
 - separated battery mount buckle parts
 - other minor improvements
@@ -19,7 +19,8 @@ See [3DPartsList.csv](3DPartsList.csv) if upgrading from v2.0.0
 - added alternative power system combos, shocks and servo
 - added optional spare diff main gear
 - added optional springs upgrade
-- updated screws
+- added screws for the new three-piece diff case
+- updated other screws
 
 ---
 ## 2.0.0
