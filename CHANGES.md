@@ -1,5 +1,16 @@
 # Release notes
 
+## 2.2.0
+
+### Printed parts:
+- three-piece diff case improved: drive gear pushed closer to the diff
+- new body design (requires new chassis, clips and towers)
+- reinforced chassis
+- holes diameter fixed in almost all parts
+- new caibration model
+- other minor improvements
+
+---
 ## 2.1.0
 
 ### Printed parts improvements:
@@ -15,7 +26,7 @@
 
 See [3DPartsList.csv](3DPartsList.csv) if upgrading from v2.0.0
 
-## Non printed parts and BOM changes:
+### Non printed parts and BOM changes:
 - added alternative power system combos, shocks and servo
 - added optional spare diff main gear
 - added optional springs upgrade
