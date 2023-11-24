@@ -1,26 +1,20 @@
 # Robak :bug:
-Robak is a DIY 4x4 all-terrain radio controlled vehicle. Designed from scratch with makers in mind - you can build one yourself.
-
-![robak](https://i.imgur.com/45bZHAY.png)
+Robak is a DIY 4x4 all-terrain, radio-controlled vehicle, designed from scratch with makers in mind. You can build one yourself.
 
 ### Printed parts :car:
-- Download 3D models `.zip` package from [releases](https://github.com/robaki-dev/robak/releases)
+Download the `.zip` package of 3D models from the [releases](https://github.com/robaki-dev/robak/releases) section.
 
-### What to print :heavy_check_mark:
-- Check the [3DPartsList](3DPartsList.csv)
+### What to print? :heavy_check_mark:
+Refer to the `Printed Parts` [spreadsheet](https://docs.google.com/spreadsheets/d/1S73O2_X_KizYN1NBLYVK2Ys7M-hHZOLwAfLdhMxNcXI/edit#gid=1947509580) for details.
 
 ### Non printed parts :rocket:
-- Check the [BOM](BOM.csv)
-- Links available on [Discord](https://discord.gg/4mxkpQYTXy)
+The bill of materials, including links to online shops, is available [here](https://docs.google.com/spreadsheets/d/1S73O2_X_KizYN1NBLYVK2Ys7M-hHZOLwAfLdhMxNcXI/edit#gid=1409891941).
 
-### Hinge pins :scissors:
-- Cut steel rods to lenght: [drawing](DRAWINGS/HingePins.pdf)
-
-### Documentation :green_book:
-- [Docs](https://robaki.dev/docs) on https://robaki.dev
+### Where to start? :green_book:
+Begin by watching the build video, then refer to this [online document](https://docs.google.com/presentation/d/1HM81BQhkKSFr_ZRTIKP950ZJcJBYzyWOIWn2UdTEApA/edit?usp=sharing) which covers all the new features and includes additional information not shown in the video. Comprehensive documentation is currently in development.
 
 ### Support :wave:
-- Join our [Discord](https://discord.gg/4mxkpQYTXy) channel
+Join our [Discord](https://discord.gg/4mxkpQYTXy) server for support and to share your progress.
 
 ### Video guide :video_camera:
 [![Video Guide](https://img.youtube.com/vi/374VbFoaV5E/0.jpg)](https://www.youtube.com/watch?v=374VbFoaV5E)
